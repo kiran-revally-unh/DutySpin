@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727478954656",
+    "project_id": "dutyspin",
+    "storage_bucket": "dutyspin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727478954656:android:0793ca74295b0c558f77c5",
+        "android_client_info": {
+          "package_name": "com.example.choreflow_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUb0Oujikk_0jgPNhV5DhdNmbDIdas3zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
