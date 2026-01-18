@@ -77,7 +77,7 @@ This is by design.
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/6521fafd-4dd2-4e5d-a4a1-faaef8f30aef"
+	   src="https://github.com/user-attachments/assets/dd16144a-9bc4-443a-bbce-e72446e51134"
     width="210"
     style="border-radius: 14px; box-shadow: 0 12px 24px rgba(0,0,0,0.18);"
   />
@@ -111,7 +111,7 @@ This is by design.
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github.com/user-attachments/assets/dd16144a-9bc4-443a-bbce-e72446e51134"
+	      src="https://github.com/user-attachments/assets/6521fafd-4dd2-4e5d-a4a1-faaef8f30aef"
     width="210"
     style="border-radius: 14px; box-shadow: 0 12px 24px rgba(0,0,0,0.18);"
   />
