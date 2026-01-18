@@ -77,9 +77,9 @@ This is by design.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6521fafd-4dd2-4e5d-a4a1-faaef8f30aef" width="220" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/9d5fb3a2-76c9-4a43-8d0f-26670d54181a" width="220" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ec911ae8-e9d7-4e4f-ab6f-20edaf81a90e" width="220" />
 </p>
 
@@ -87,9 +87,9 @@ This is by design.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d3e5b04-1c6e-4917-8ea9-7b977bda8f2b" width="220" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/bea67d0d-8fce-4523-85f1-eceeb4394292" width="220" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/dd16144a-9bc4-443a-bbce-e72446e51134" width="220" />
 </p>
 
