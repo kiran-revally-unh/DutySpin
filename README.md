@@ -83,7 +83,7 @@ This is by design.
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github.com/user-attachments/assets/9d5fb3a2-76c9-4a43-8d0f-26670d54181a"
+      src="https://github.com/user-attachments/assets/bea67d0d-8fce-4523-85f1-eceeb4394292"
     width="210"
     style="border-radius: 14px; box-shadow: 0 12px 24px rgba(0,0,0,0.18);"
   />
@@ -105,7 +105,7 @@ This is by design.
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github.com/user-attachments/assets/bea67d0d-8fce-4523-85f1-eceeb4394292"
+	    src="https://github.com/user-attachments/assets/9d5fb3a2-76c9-4a43-8d0f-26670d54181a"
     width="210"
     style="border-radius: 14px; box-shadow: 0 12px 24px rgba(0,0,0,0.18);"
   />
