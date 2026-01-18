@@ -1,4 +1,4 @@
-DutySpin
+DutySpin     https://dutyspin.web.app/
 
 DutySpin is a simple utility app for managing shared chores using turn-based responsibility.
 It answers one question only:
