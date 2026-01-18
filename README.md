@@ -60,13 +60,15 @@ What DutySpin Does Not Do
 
 ⸻
 
-Tech Stack<img width="217" height="468" alt="Screenshot 2026-01-18 at 1 14 07 PM" src="https://github.com/user-attachments/assets/6521fafd-4dd2-4e5d-a4a1-faaef8f30aef" />
+<img width="217" height="468" alt="Screenshot 2026-01-18 at 1 14 07 PM" src="https://github.com/user-attachments/assets/6521fafd-4dd2-4e5d-a4a1-faaef8f30aef" />
 <img width="217" height="468" alt="Screenshot 2026-01-18 at 1 13 48 PM" src="https://github.com/user-attachments/assets/9d5fb3a2-76c9-4a43-8d0f-26670d54181a" />
 <img width="217" height="468" alt="Screenshot 2026-01-18 at 1 13 40 PM" src="https://github.com/user-attachments/assets/ec911ae8-e9d7-4e4f-ab6f-20edaf81a90e" />
 <img width="217" height="468" alt="Screenshot 2026-01-18 at 1 13 29 PM" src="https://github.com/user-attachments/assets/7d3e5b04-1c6e-4917-8ea9-7b977bda8f2b" />
 <img width="217" height="468" alt="Screenshot 2026-01-18 at 1 12 54 PM" src="https://github.com/user-attachments/assets/bea67d0d-8fce-4523-85f1-eceeb4394292" />
 <img width="217" height="468" alt="Screenshot 2026-01-18 at 1 12 47 PM" src="https://github.com/user-attachments/assets/dd16144a-9bc4-443a-bbce-e72446e51134" />
 
+Tech Stack
+	
 	•	Frontend: (add your framework here — Flutter / React Native / etc.)
 	•	Backend: Firebase
 	•	Authentication: Firebase OTP (Email & Phone)
